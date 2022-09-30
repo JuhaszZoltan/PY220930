@@ -5,4 +5,4 @@ while x <= 10000000:
     x = x * 2
     c = c + 1
 
-print(f'hatványok száma: {c}')
+print(f'hatványok száma 10Mig: {c}')
